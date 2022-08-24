@@ -1,7 +1,7 @@
 {
   "openapi" : "3.0.0",
   "info" : {
-    "description" : "Sample Application for C# Event Frontend Days Angyular\n",
+    "description" : "Sample Application for C# Corner Event Frontend Days Angular\n",
     "version" : "1.0.0",
     "title" : "Petstore",
     "termsOfService" : "http://swagger.io/terms/",
